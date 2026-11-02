@@ -1,0 +1,37 @@
+# Blender MTL File: 'The Freelancers rig (With suit on).blend'
+# Material Count: 3
+
+newmtl Doppo_Hair
+Ns 860.398201
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\visha\\Downloads\\Compressed\\doppo-hair-fbx\\6292caaa090c279d912b9e95775f83e4\\3.png
+map_d C:\\Users\\visha\\Downloads\\Compressed\\doppo-hair-fbx\\6292caaa090c279d912b9e95775f83e4\\3.png
+
+newmtl Doppo_Hair_2
+Ns 449.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.996078 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\visha\\Downloads\\Compressed\\doppo-hair-fbx\\6292caaa090c279d912b9e95775f83e4\\3.png
+map_d C:\\Users\\visha\\Downloads\\Compressed\\doppo-hair-fbx\\6292caaa090c279d912b9e95775f83e4\\3.png
+
+newmtl None
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd None Base Color.png
